@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.12"
 keyring = "^25.5.0"
 keyrings-osx-keychain-keys = "^1.0.1"
-requests = "^2.32.3"
+selenium = "^4.27.1"
 
 
 [build-system]
